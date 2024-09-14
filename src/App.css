@@ -1,0 +1,13 @@
+.mydiv{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width:50%;
+    row-gap:10px;
+    column-gap:15px;
+    background-color:grey;
+    padding:10px
+}
+button{
+    padding:13px;
+    font-size:19px;
+}
